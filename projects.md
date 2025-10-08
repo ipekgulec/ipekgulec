@@ -23,3 +23,6 @@
 - * Which part was most challenging: design, logic, or input/output? the logic part was the most challenging*
 
 - * How is this project similar to Scratch’s “repeat” and “pick random” blocks? ForEach is like the repeat block, Random functions in code are like pick random block*
+
+<img src="" with="">
+<
