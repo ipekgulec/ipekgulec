@@ -1,1 +1,1 @@
-**[Home page](README.md)** | **[Projects]()** | **[Big ideas]()** | **[Resources]()**
+**[Home page](README.md)** | **[Projects](projects.md)** | **[Big ideas]()** | **[Resources]()**
