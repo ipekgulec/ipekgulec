@@ -24,5 +24,5 @@
 
 - * How is this project similar to Scratch’s “repeat” and “pick random” blocks? ForEach is like the repeat block, Random functions in code are like pick random block*
 
-<img src="" with="">
-<
+<img src="Ekran Resmi 2025-09-18 00.27.03.png" with="600">
+
