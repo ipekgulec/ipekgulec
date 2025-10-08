@@ -2,7 +2,7 @@
 
 <br>
 
-### **[clockv3](projects_kaynak/ayılı saat.swiftpm.zip)**
+### **[clockv3](https://github.com/ipekgulec/ipekgulec/blob/main/projects_kaynak/ayılı%20saat.swiftpm.zip)**
 
 - * A clock app that changes the hour and/or the minute once the screen or buttons are clicked, shows the hour and minutes and determines wether it is AM or PM, the clock is also shaped like a bear and the pose of the bear changes according to the hours of the day*
  
