@@ -1,0 +1,70 @@
+. What is Data Compression?
+Data compression means making files smaller so they take up less space and are faster to send or download.
+There are two types:
+Lossless compression = No data is lost. You can get back the exact original file.
+Lossy compression = Some small parts are removed (you can’t get back the exact original), but the file becomes much smaller. Usually used for photos, videos, and music.
+
+Why do we compress data?
+To save space on your device.
+To upload/download files faster online.
+To share files more easily with others (smaller file = easier to send).
+To help apps or websites load faster (compressed images, videos).
+
+How is different data compressed?
+ A. Text (like .txt, .docx, .pdf)
+Uses lossless compression.
+Looks for repeated words or letters.
+Makes patterns shorter (e.g. "aaaaaa" → "6a").
+Common compressed formats:
+.zip
+.pdf
+.docx (it's a zip file inside!)
+
+Images / Photos
+Can be lossless or lossy.
+Tries to remove small details or colors you can’t see well.
+Formats:
+Lossless: PNG, GIF
+Lossy: JPEG, WebP, HEIC
+
+Music / Audio
+Usually lossy, because small sounds can be removed.
+Your ears often can’t hear tiny differences.
+Popular formats:
+MP3
+AAC
+OGG
+FLAC (lossless)
+
+Videos
+Mix of images + audio + motion.
+Almost always lossy.
+Uses frame prediction (saves only the changes between frames).
+File formats:
+MP4
+MOV
+AVI
+WebM
+
+Best Tools for Compression on Mac or Online
+1- Video
+Tool	Type	Notes
+Clideo	Online	Easy, drag and drop video
+Compressor (by Apple)	Mac app	Pro-level, works with Final Cut
+HitPaw Video Compressor	Mac app	Beginner-friendly
+YouCompress	Online	Free and simple
+HandBrake	Free Mac app	Open-source, advanced options
+
+2-Image
+Tool	Type	Notes
+ImageOptim	Mac app	Lossless, good for web images
+TinyPNG / TinyJPG	Online	Shrinks images without quality loss
+Squoosh (by Google)	Online	Choose image quality, see live preview
+Preview (macOS)	Built-in	Export and adjust quality manually
+
+3-Audio
+Tool	Type	Notes
+Audacity	Free Mac app	Edit and export audio (MP3, etc.)
+Online Audio Converter	Online	Upload and convert files
+FFmpeg	Terminal tool	Pro-level audio/video compression
+GarageBand	Mac app	Export as compressed audio
